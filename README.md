@@ -1,4 +1,4 @@
 Test
 ====
 
-Test Repository more on http://www.ewendo.com
+Test Repository. Demo and more Infos at http://www.ewendo.com
